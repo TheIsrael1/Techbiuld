@@ -196,12 +196,16 @@ padding: 50px auto;
  padding: 2rem 0;
 }
 input, .contact textarea{
- padding: 10px 5rem;
+ padding: 10px 20px;
  border: #D9CC42 5px;
  }
 
 
 footer{
+ position: relative;
+ bottom: 0;
+ left: 0;
+ right: 0;
  height: 60vh;
  background-color: #050404;
  color: rgb(236, 217, 175);
